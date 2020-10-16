@@ -1,0 +1,2 @@
+D:\Projects\ArkanoidApp\Debug\ArkanoidApp.exe
+D:\Projects\ArkanoidApp\Debug\ArkanoidApp.pdb

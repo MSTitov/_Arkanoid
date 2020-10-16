@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ArkanoidApp", "ArkanoidApp.vcxproj", "{F4262070-6AA1-4365-9BDD-610171CB6129}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4262070-6AA1-4365-9BDD-610171CB6129}.Debug|x64.ActiveCfg = Debug|x64
+		{F4262070-6AA1-4365-9BDD-610171CB6129}.Debug|x64.Build.0 = Debug|x64
+		{F4262070-6AA1-4365-9BDD-610171CB6129}.Debug|x86.ActiveCfg = Debug|Win32
+		{F4262070-6AA1-4365-9BDD-610171CB6129}.Debug|x86.Build.0 = Debug|Win32
+		{F4262070-6AA1-4365-9BDD-610171CB6129}.Release|x64.ActiveCfg = Release|x64
+		{F4262070-6AA1-4365-9BDD-610171CB6129}.Release|x64.Build.0 = Release|x64
+		{F4262070-6AA1-4365-9BDD-610171CB6129}.Release|x86.ActiveCfg = Release|Win32
+		{F4262070-6AA1-4365-9BDD-610171CB6129}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E034D56-DB56-4C79-9ADD-F108ED755BDB}
+	EndGlobalSection
+EndGlobal
